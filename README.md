@@ -6,3 +6,5 @@ and my name is khushi verma
 i am very smart 
 <br>
 my dream is AI engineer 
+<br>
+learn some think new 
